@@ -1,0 +1,15 @@
+{
+  "account": {
+    "id": "DEMO-01",
+    "alias": "DEMO ACCOUNT"
+  },
+  "runtime": {
+    "terminal_connected": true,
+    "source_updated_at_ms": 1786968000000
+  },
+  "metrics": {
+    "balance": 3208.10,
+    "equity": 3199.25,
+    "positions_open": 2
+  }
+}

@@ -1,0 +1,8 @@
+[project]
+name = "magic-ai-gold-showcase"
+version = "5.0.12"
+description = "Sanitized realtime snapshot contract sample for a public product portfolio"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 100

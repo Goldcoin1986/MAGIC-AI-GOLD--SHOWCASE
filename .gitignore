@@ -1,0 +1,35 @@
+# EA và file thương mại
+*.mq5
+*.mqh
+*.ex5
+*.exe
+*.dll
+
+# License và khóa bí mật
+*.lic
+*.magiclicense
+private_key.hex
+ea_hmac_secret.hex
+remote_connection.json
+license_activation.json
+license_clock.json
+magic_ai_activation_code.txt
+
+# Cấu hình và dữ liệu thật
+runtime/config.json
+dashboard_state/
+accounts/
+logs/
+*.log
+.env
+.env.*
+
+# File tạm Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows
+Thumbs.db
+Desktop.ini

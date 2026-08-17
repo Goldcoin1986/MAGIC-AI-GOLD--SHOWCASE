@@ -99,3 +99,7 @@ token Remote hoặc dữ liệu khách hàng. Xem [LICENSE](LICENSE) và [SECURI
 
 **Product owner:** Thanh Lai Dinh  
 **Release represented:** V5.0.12 · August 2026
+
+## Video Demo
+
+[▶ Xem Magic AI Gold V5.0.12 hoạt động trên YouTube] https://www.youtube.com/watch?v=nAlsx2o7RBg
